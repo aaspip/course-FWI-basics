@@ -6,11 +6,11 @@ An interactive short course on acoustic wave propagation, inverse problems, grad
 
 | Notebook | Run |
 |---|---|
-| 01 — Seismic Wave Propagation | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aaspip/course-FWI-basics/blob/main/notebooks/01_wave_propagation.ipynb) |
-| 02 — Seismic Forward and Inverse Problems | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aaspip/course-FWI-basics/blob/main/notebooks/02_forward_inverse.ipynb) |
-| 03 — FWI Gradient and Optimization | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aaspip/course-FWI-basics/blob/main/notebooks/03_fwi_gradient.ipynb) |
-| 04 — Full Waveform Inversion: Numerical Examples | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aaspip/course-FWI-basics/blob/main/notebooks/04_fwi_example.ipynb) |
-| 05 — Cycle Skipping and Multiscale FWI | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aaspip/course-FWI-basics/blob/main/notebooks/05_multiscale_fwi.ipynb) |
+| 01 — Seismic Wave Propagation | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aaspip/course-FWI-basics/blob/main/01_wave_propagation.ipynb) |
+| 02 — Seismic Forward and Inverse Problems | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aaspip/course-FWI-basics/blob/main/02_forward_inverse.ipynb) |
+| 03 — FWI Gradient and Optimization | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aaspip/course-FWI-basics/blob/main/03_fwi_gradient.ipynb) |
+| 04 — Full Waveform Inversion: Numerical Examples | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aaspip/course-FWI-basics/blob/main/04_fwi_example.ipynb) |
+| 05 — Cycle Skipping and Multiscale FWI | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aaspip/course-FWI-basics/blob/main/05_multiscale_fwi.ipynb) |
 
 ## Running in Colab
 
