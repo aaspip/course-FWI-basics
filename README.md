@@ -1,5 +1,19 @@
 # Fundamentals of Full Waveform Inversion (FWI)
 
+<p align="center">
+  <a href="https://aaspip.github.io/course-FWI-basics/">
+    <img src="./FWI_Short_Course_QR.png" alt="FWI Short Course QR Code" width="180">
+  </a>
+  <br>
+  <strong>Scan the QR code to access the interactive course website.</strong>
+  <br>
+  <a href="https://aaspip.github.io/course-FWI-basics/">Course Website</a> ·
+  Interactive Google Colab Notebooks · No Local Installation Required
+</p>
+
+---
+## Course Overview
+
 An interactive short course on acoustic wave propagation, inverse problems, gradients, numerical FWI and frequency continuation using GeoFWI velocity models.
 
 ## Interactive notebooks
